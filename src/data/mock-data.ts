@@ -84,6 +84,7 @@ export const projects = [
     difficulty: "Advanced" as const,
     status: "Active",
     stars: 128,
+    amountInINR: 50000, // INR
   },
   {
     id: 2,
@@ -95,6 +96,7 @@ export const projects = [
     difficulty: "Intermediate" as const,
     status: "Active",
     stars: 89,
+    amountInINR: 30000,
   },
   {
     id: 3,
@@ -106,6 +108,7 @@ export const projects = [
     difficulty: "Intermediate" as const,
     status: "Active",
     stars: 256,
+    amountInINR: 20000,
   },
   {
     id: 4,
@@ -117,6 +120,7 @@ export const projects = [
     difficulty: "Advanced" as const,
     status: "Active",
     stars: 342,
+    amountInINR: 75000,
   },
   {
     id: 5,
@@ -128,6 +132,7 @@ export const projects = [
     difficulty: "Beginner" as const,
     status: "New",
     stars: 45,
+    amountInINR: 15000,
   },
   {
     id: 6,
@@ -139,6 +144,7 @@ export const projects = [
     difficulty: "Advanced" as const,
     status: "Active",
     stars: 178,
+    amountInINR: 50000,
   },
 ];
 
